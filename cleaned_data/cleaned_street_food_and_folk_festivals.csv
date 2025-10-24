@@ -1,0 +1,94 @@
+﻿district,from,to,time,entrance
+Tempelhof-Schöneberg,01.05.2025,04.05.2025,"Do/Fr/Sa 12:00 bis 23:00 Uhr 
+So 12:00 bis 20:00 Uhr","Ja, findet auf der Straße statt"
+Mitte,01.06.2025,,11:00 bis 18:00 Uhr,Ja
+Reinickendorf,01.08.2025,02.08.2025,"Fr 15-22 Uhr 
+Sa 12-22 Uhr",Ja
+Marzahn-Hellersdorf,02.05.2025,04.05.2025,Fr 16-22 Uhr Sa 12-22 Uhr So 12-18 Uhr,Ja
+Treptow-Köpenick,02.10.2025,05.10.2025,Fr 12-22 Uhr Sa 12-22 Uhr So 12-20 Uhr,Ja
+Lichtenberg,03.10.2025,05.10.2025,9-17 Uhr,Ja
+Reinickendorf,04.04.2025,05.04.2025,"Fr 15-22 Uhr 
+Sa 12-22 Uhr",Ja
+Spandau,04.07.2025,06.07.2025,Fr 14-22 Uhr Sa 12-22 Uhr So 12-20 Uhr,Ja
+Pankow,04.07.2025,06.07.2025,Fr 14-22 Uhr Sa 12-22 Uhr So 12-20 Uhr,Ja
+Reinickendorf,04.07.2025,05.07.2025,"Fr 15-22 Uhr 
+Sa 12-22 Uhr",Ja
+Tempelhof-Schöneberg,04.10.2025,05.10.2025,"Sa 11-20 Uhr 
+So 10-20 Uhr","Ja, Gesamte Veranstaltung findet auf den gesperrten Straßen statt. Somit kann man überall hinfahren - laufen. Behindertentoilette ist vorhanden"
+Reinickendorf,05.09.2025,06.09.2025,"Fr 15-22 Uhr 
+Sa 12-22 Uhr",Ja
+Steglitz-Zehlendorf,05.09.2025,07.09.2025,"Fr 14:00 bis 23:00 Uhr 
+Sa 12:00 bis 23:00 Uhr 
+So 12:00 bis 20:00 Uhr","Ja, findet auf einem ebenerdigen Platz statt"
+Steglitz-Zehlendorf,06.04.2025,,11:00 bis 18:00 Uhr,"Ja, findet auf einem Platz statt"
+Brandenburg,06.06.2025,09.06.2025,Fr 14-22 Uhr Sa 12-22 Uhr So 12-22 Uhr Mo 12-18 Uhr,Ja
+Neukölln,06.09.2025,07.09.2025,"Sa 12-22 Uhr 
+So 12-20 Uhr",Ja
+Charlottenburg-Wilmersdorf,06.09.2025,,12-20 Uhr,Ja
+Charlottenburg - Wilmersdorf,07.06.2025,09.06.2025,"Sa und So 12:00 - 23:00 Uhr 
+Mo 12:00 - 20:00 Uhr","Ja, findet auf der Straße statt"
+Lichtenberg,07.06.2025,09.06.2025,9-17 Uhr,Ja
+Charlottenburg-Wilmersdorf,07.06.2025,09.06.2025,"Sa/So 12:00 bis 23:00 Uhr 
+Mo 12:00 bis 20:00 Uhr","Ja, findet auf einer ebenerdigen Straße statt"
+Tempelhof-Schöneberg,07.09.2025,,,"Ja, Sportstätte ist barrierefrei zugänglich"
+Reinickendorf,07.11.2025,08.11.2025,"Fr 15-22 Uhr 
+Sa 12-22 Uhr",Ja
+Marzahn-Hellersdorf,08.11.2025,09.11.2025,10:00 bis 18:00 Uhr,"Ja, teilweise barrierefrei"
+Pankow,09.05.2025,11.05.2025,Fr 14-22 Uhr Sa 12-22 Uhr So 12-20 Uhr,Ja
+Reinickendorf,09.05.2025,10.05.2025,Fr 15-22 Uhr Sa 12-22 Uhr,Ja
+Steglitz-Zehlendorf,09.05.2025,11.05.2025,"Fr 14:00 bis 23:00 Uhr 
+Sa 12:00 bis 23:00 Uhr 
+So 12:00 bis 20:00 Uhr","Ja, findet auf einem ebenerdigen Platz statt"
+Reinickendorf,"10./11.05.2025 
+13./14.05.2025",,11-18 Uhr,"Ja, öffentliches Straßengelände. Kopfsteinpflaster"
+Neukölln,10.05.2025,11.05.2025,"Sa 12-22 Uhr 
+So 12-20 Uhr",Ja
+Charlottenburg-Wilmersdorf,10.05.2025,24.05.2025,"Mo-Sa 11:00 bis 20:00 Uhr 
+So 12:00 bis 19:00 Uhr",Ja
+Tempelhof-Schöneberg,10.05.2025,11.05.2025,"Sa 11-20 Uhr 
+So 10-20 Uhr","Ja, ist freies Straßenland und findet sozusagen auf der Fahrbahn statt. Behindertentoiletten ist vorhanden!"
+Mitte,10.10.2025,19.10.2025,11-22 Uhr,Ja
+Reinickendorf,10.10.2025,11.10.2025,"Fr 15-22 Uhr 
+Sa 12-22 Uhr",Ja
+Neukölln,11.07.2025,13.07.2025,Fr 14-22 Uhr Sa 12-22 Uhr So 12-20 Uhr,Ja
+Tempelhof-Schöneberg,12.09.2025,14.09.2025,"Fr 14:00 bis 23:00 Uhr 
+Sa 12:00 bis 23:00 Uhr 
+So 11:00 bis 20:00 Uhr","Ja, findet auf einer ebenerdigen Straße statt"
+Steglitz-Zehlendorf,13.04.2025,,11-18 Uhr,"Ja, öffentliches Straßengelände"
+Marzahn-Hellersdorf,13.04.2025,,11:00 bis 18:00 Uhr,Nein
+Steglitz-Zehlendorf,13.04.2025,31.08.2025,11-18 Uhr,"Ja, öffentliches Straßengelände. Kopfsteinpflaster"
+Charlottenburg-Wilmersdorf,13.04.2025,,11:00 bis 18:00 Uhr,"Ja, findet auf einem ebenerdigen Platz statt"
+Treptow-Köpenick,13.06.2025,15.06.2025,Fr 14-23 Uhr Sa 11-24 Uhr So 11-20 Uhr,Ja
+Pankow,13.09.2025,14.09.2025,"Sa 12-22 Uhr 
+So 12-20 Uhr",Ja
+Charlottenburg-Wilmersdorf,"14./15.06.2025 
+06./07.09.2025",,11-18 Uhr,Ja
+Pankow,14.06.2025,15.06.2025,12-22 Uhr,"Ja, ebenerdiges Gelände, barierefreie Toiletten"
+Treptow-Köpenick,14.06.2025,14.06.2025,11:00 - 23:00 Uhr,"Ja, über der Straße"
+Treptow-Köpenick,16.05.2025,18.05.2025,Fr 14-22 Uhr Sa 12-22 Uhr So 12-20 Uhr,Ja
+Steglitz-Zehlendorf,16.09.2025,28.09.2025,Fr 14-22 Uhr Sa 12-22 Uhr So 12-20 Uhr,Ja
+Lichtenberg,17.05.2025,,14-22 Uhr,Ja
+Treptow-Köpenick,18.04.2025,21.04.2025,Fr 14-22 Uhr Sa 12-22 Uhr So 12-22 Uhr Mo 12-18 Uhr,Ja
+Spandau,18.05.2025,,12-17 Uhr,Nein
+Pankow,18.07.2025,20.07.2025,Fr 14-22 Uhr Sa 12-22 Uhr So 12-20 Uhr,Ja
+Charlottenburg-Wilmersdorf,18.10.2025,01.11.2025,"Mo-Sa 11:00 bis 20:00 Uhr 
+So 11:00 bis 19:00 Uhr",Ja
+Tempelhof-Schöneberg,19.04.2025,21.04.2025,Sa 12-22 Uhr So 12-22 Uhr Mo 12-18 Uhr,Ja
+Treptow-Köpenick,19.09.2025,21.09.2025,Fr 14-23 Uhr Sa 12-23 Uhr So 12-20 Uhr,Ja
+Treptow-Köpenick,19.09.2025,21.09.2025,Fr 14-22 Uhr Sa 12-22 Uhr So 12-20 Uhr,Ja
+Reinickendorf,19.09.2025,19.10.2025,"Montag und Dienstag geschlossen. Mittwoch und Donnerstag von 14 bis 22 Uhr, Freitag und Samstag von 14 bis 23 Uhr, Sonntag von 13 bis 22 Uhr.",Ja
+Reinickendorf,20.06.2025,22.06.2025,Fr 14-22 Uhr Sa 12-22 Uhr So 12-20 Uhr,Ja
+Lichtenberg,21.03.2025,23.03.2025,Fr 14-22 Uhr Sa 12-22 Uhr So 12-18 Uhr,Ja
+Neukölln,21.06.2025,,14-22 Uhr,Ja
+Pankow,23.05.2025,25.05.2025,Fr 17-22 Uhr Sa 12-22 Uhr So 12-20 Uhr,Ja
+Mitte,23.05.2025,01.06.2025,11-22 Uhr,Ja
+Tempelhof-Schöneberg,24.05.2025,,12-19 Uhr,"Ja, rollstuhlgerechter Zugang zum Festgelände, keine Gebärdendolmetscher"
+Marzahn-Hellersdorf,25.04.2025,27.04.2025,Fr 14-22 Uhr Sa 12-22 Uhr So 12-18 Uhr,Ja
+Reinickendorf,25.07.2025,17.08.2025,"Montag und Dienstag geschlossen. Mittwoch und Donnerstag von 14 bis 22 Uhr, Freitag und Samstag von 14 bis 23 Uhr, Sonntag von 13 bis 22 Uhr.",Ja
+Mitte,28.03.2025,30.03.2025,Fr 14-22 Uhr Sa 12-22 Uhr So 12-18 Uhr,Ja
+Friedrichshain-Kreuzberg,29.03.2025,30.03.2025,"Sa 12-20 Uhr 
+So 12-18 Uhr",Ja
+Reinickendorf,29.03.2025,04.05.2025,"Montag und Dienstag geschlossen. Mittwoch und Donnerstag von 14 bis 22 Uhr, Freitag und Samstag von 14 bis 23 Uhr, Sonntag von 13 bis 22 Uhr. Sonderöffnungen: Ostersonntag von 13 bis 23 Uhr, Ostermontag von 13 bis 22 Uhr, Dienstag, 22. April von 13 bis 22 Uhr, 1. Mai von 13 bis 22 Uhr. Karfreitag geschlossen.",Ja
+Treptow-Köpenick,29.05.2025,01.06.2025,Fr 12-22 Uhr Sa 12-22 Uhr So 12-20 Uhr,Ja
+Lichtenberg,29.05.2025,01.06.2025,12-22 Uhr,Ja
+Tempelhof-Schöneberg,30.05.2025,01.06.2025,Fr 14-22 Uhr Sa 11-23 Uhr So 13-20 Uhr,"Ja, teilweise, geländebedingt"
